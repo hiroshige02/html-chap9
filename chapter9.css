@@ -61,7 +61,7 @@ p{
 }
 @media screen and (max-width:768px) {
 
-	.main{
+	.main {
 		width: 90%;
     }
     .main-box {
@@ -69,7 +69,7 @@ p{
     	width: 100%;
     	margin-bottom: 20px;
     }
-    .main-box:last-child{
+    .main-box:last-child {
     	margin-bottom: 0;
     }
 
